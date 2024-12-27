@@ -1,5 +1,23 @@
 [
   {
+    "name": "Bicycle",
+    "url": "https://bicycle.ddw2019.com",
+    "icon": "https://icons.duckduckgo.com/ip3/bicycle.ddw2019.com.ico",
+    "slug": "bicycle",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Blog of Dongdong",
     "url": "https://ddw2019.com",
     "icon": "https://icons.duckduckgo.com/ip3/ddw2019.com.ico",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1701,
-    "timeDay": 1701,
-    "timeWeek": 1701,
-    "timeMonth": 1701,
-    "timeYear": 1701,
+    "time": 1715,
+    "timeDay": 1715,
+    "timeWeek": 1715,
+    "timeMonth": 1715,
+    "timeYear": 1715,
     "dailyMinutesDown": {}
   }
 ]
