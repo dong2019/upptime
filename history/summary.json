@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ddw2019.com.ico",
     "slug": "blog-of-dongdong",
     "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "99.15%",
-    "time": 2340,
-    "timeDay": 1822,
-    "timeWeek": 2214,
-    "timeMonth": 2463,
-    "timeYear": 2340,
+    "uptime": "99.14%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.14%",
+    "time": 2342,
+    "timeDay": 2222,
+    "timeWeek": 2297,
+    "timeMonth": 2465,
+    "timeYear": 2342,
     "dailyMinutesDown": {
-      "2025-08-22": 36,
+      "2025-08-22": 28,
       "2025-08-19": 111,
       "2025-08-15": 122,
       "2025-08-14": 0,
@@ -89,7 +89,8 @@
       "2025-02-18": 22,
       "2025-02-17": 66,
       "2025-02-15": 101,
-      "2025-02-13": 34
+      "2025-02-13": 34,
+      "2025-02-10": 16
     }
   }
 ]
