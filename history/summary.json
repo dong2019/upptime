@@ -6,17 +6,16 @@
     "slug": "blog-of-dongdong",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.42%",
-    "time": 2360,
-    "timeDay": 1862,
-    "timeWeek": 2102,
-    "timeMonth": 2541,
-    "timeYear": 2360,
+    "time": 2359,
+    "timeDay": 1698,
+    "timeWeek": 2001,
+    "timeMonth": 2531,
+    "timeYear": 2359,
     "dailyMinutesDown": {
-      "2025-11-16": 8,
       "2025-11-11": 22,
       "2025-11-09": 20,
       "2025-11-06": 23,
@@ -99,7 +98,8 @@
       "2025-03-17": 177,
       "2025-03-16": 42,
       "2025-03-14": 32,
-      "2025-03-13": 49
+      "2025-03-13": 49,
+      "2025-03-11": 25
     }
   }
 ]
