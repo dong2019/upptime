@@ -4,7 +4,7 @@
     "url": "https://ddw2019.com",
     "icon": "https://icons.duckduckgo.com/ip3/ddw2019.com.ico",
     "slug": "blog-of-dongdong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "96.11%",
     "uptimeWeek": "98.93%",
@@ -13,7 +13,7 @@
     "time": 2342,
     "timeDay": 1959,
     "timeWeek": 2282,
-    "timeMonth": 2152,
+    "timeMonth": 2147,
     "timeYear": 2342,
     "dailyMinutesDown": {
       "2025-12-25": 56,
