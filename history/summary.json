@@ -4,9 +4,9 @@
     "url": "https://ddw2019.com",
     "icon": "https://icons.duckduckgo.com/ip3/ddw2019.com.ico",
     "slug": "blog-of-dongdong",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "98.66%",
     "uptimeYear": "99.48%",
@@ -16,6 +16,7 @@
     "timeMonth": 2163,
     "timeYear": 2331,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2026-01-09": 22,
       "2026-01-08": 21,
       "2026-01-07": 62,
@@ -106,7 +107,7 @@
       "2025-04-16": 25,
       "2025-04-15": 22,
       "2025-04-14": 39,
-      "2025-04-13": 32
+      "2025-04-13": 16
     }
   }
 ]
